@@ -1,0 +1,25 @@
+{
+  "name": "GOFi",
+  "logoURI": "http://etyun.oss-cn-chengdu.aliyuncs.com/back-end/GOFi.png",
+  "keywords": [
+      "GOFi",
+      "GOFI",
+      "gofi"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xbaa4cca9319dcf73517033384ea9f3f83869d7cf",
+      "name": "GOFi",
+      "symbol": "GOFi",
+      "decimals": 18,
+      "logoURI": "http://etyun.oss-cn-chengdu.aliyuncs.com/back-end/GOFi.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
